@@ -146,7 +146,7 @@ Partial Class ManHinhDangNhap
     Me.Label1.BackColor = System.Drawing.Color.Transparent
     Me.Label1.Dock = System.Windows.Forms.DockStyle.Top
     Me.Label1.Font = New System.Drawing.Font("Perpetua", 35.0!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-    Me.Label1.ForeColor = System.Drawing.Color.White
+    Me.Label1.ForeColor = System.Drawing.Color.Yellow
     Me.Label1.Location = New System.Drawing.Point(0, 0)
     Me.Label1.Name = "Label1"
     Me.Label1.Size = New System.Drawing.Size(881, 113)

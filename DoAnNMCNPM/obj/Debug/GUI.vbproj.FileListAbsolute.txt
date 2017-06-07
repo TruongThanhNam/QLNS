@@ -1,0 +1,171 @@
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\obj\Debug\GUI.vbprojResolveAssemblyReference.cache
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhLapPhieuNhapSach.resources
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhBaoCaoCongNo.resources
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhBaoCaoTon.resources
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhBaoMat.resources
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhChinh.resources
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhChiTietPhieuHoaDon.resources
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhChiTietPhieuNhap.resources
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhDangKyTaiKhoan.resources
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhInAnBaoCaoCongNo.resources
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhInAnBaoCaoTon.resources
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhInAnKhachHang.resources
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhInAnSach.resources
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhLapBaoCaoCongNo.resources
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhLapBaoCaoTon.resources
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhLapHoaDonBanSach.resources
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhLapPhieuThuTien.resources
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhDangNhap.resources
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhPhieuHoaDon.resources
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhPhieuThuTien.resources
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhThayDoiQuyDinh.resources
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhTraCuuSach.resources
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.Resources.resources
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.manhinhphieunhap.resources
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\obj\Debug\GUI.vbproj.GenerateResource.Cache
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\obj\Debug\RdlCompile.cache
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\obj\Debug\RdlCompile.compiled
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.xml
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\bin\Debug\DoAnNMCNPM.exe.config
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\bin\Debug\DoAnNMCNPM.exe
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\bin\Debug\DoAnNMCNPM.pdb
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\bin\Debug\DoAnNMCNPM.xml
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\bin\Debug\BLL.dll
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\bin\Debug\DTO.dll
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\bin\Debug\DAL.dll
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\bin\Debug\BLL.pdb
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\bin\Debug\BLL.xml
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\bin\Debug\DTO.pdb
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\bin\Debug\DTO.xml
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\bin\Debug\DAL.pdb
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\bin\Debug\DAL.xml
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.exe
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.pdb
+D:\DoAnNMCNPM12\DoAnNMCNPM\bin\Debug\DoAnNMCNPM.exe.config
+D:\DoAnNMCNPM12\DoAnNMCNPM\bin\Debug\DoAnNMCNPM.exe
+D:\DoAnNMCNPM12\DoAnNMCNPM\bin\Debug\DoAnNMCNPM.pdb
+D:\DoAnNMCNPM12\DoAnNMCNPM\bin\Debug\DoAnNMCNPM.xml
+D:\DoAnNMCNPM12\DoAnNMCNPM\bin\Debug\BLL.dll
+D:\DoAnNMCNPM12\DoAnNMCNPM\bin\Debug\DevComponents.DotNetBar2.dll
+D:\DoAnNMCNPM12\DoAnNMCNPM\bin\Debug\DTO.dll
+D:\DoAnNMCNPM12\DoAnNMCNPM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\DoAnNMCNPM12\DoAnNMCNPM\bin\Debug\DAL.dll
+D:\DoAnNMCNPM12\DoAnNMCNPM\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\DoAnNMCNPM12\DoAnNMCNPM\bin\Debug\BLL.pdb
+D:\DoAnNMCNPM12\DoAnNMCNPM\bin\Debug\BLL.xml
+D:\DoAnNMCNPM12\DoAnNMCNPM\bin\Debug\DTO.pdb
+D:\DoAnNMCNPM12\DoAnNMCNPM\bin\Debug\DTO.xml
+D:\DoAnNMCNPM12\DoAnNMCNPM\bin\Debug\DevComponents.DotNetBar2.xml
+D:\DoAnNMCNPM12\DoAnNMCNPM\bin\Debug\DAL.pdb
+D:\DoAnNMCNPM12\DoAnNMCNPM\bin\Debug\DAL.xml
+D:\DoAnNMCNPM12\DoAnNMCNPM\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\DoAnNMCNPM12\DoAnNMCNPM\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\DoAnNMCNPM12\DoAnNMCNPM\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\DoAnNMCNPM12\DoAnNMCNPM\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\DoAnNMCNPM12\DoAnNMCNPM\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\DoAnNMCNPM12\DoAnNMCNPM\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\DoAnNMCNPM12\DoAnNMCNPM\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\DoAnNMCNPM12\DoAnNMCNPM\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\DoAnNMCNPM12\DoAnNMCNPM\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\DoAnNMCNPM12\DoAnNMCNPM\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\DoAnNMCNPM12\DoAnNMCNPM\obj\Debug\GUI.vbprojResolveAssemblyReference.cache
+D:\DoAnNMCNPM12\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhLapPhieuNhapSach.resources
+D:\DoAnNMCNPM12\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhBaoCaoCongNo.resources
+D:\DoAnNMCNPM12\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhBaoCaoTon.resources
+D:\DoAnNMCNPM12\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhBaoMat.resources
+D:\DoAnNMCNPM12\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhChinh.resources
+D:\DoAnNMCNPM12\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhChiTietPhieuHoaDon.resources
+D:\DoAnNMCNPM12\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhChiTietPhieuNhap.resources
+D:\DoAnNMCNPM12\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhDangKyTaiKhoan.resources
+D:\DoAnNMCNPM12\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhInAnBaoCaoCongNo.resources
+D:\DoAnNMCNPM12\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhInAnBaoCaoTon.resources
+D:\DoAnNMCNPM12\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhInAnKhachHang.resources
+D:\DoAnNMCNPM12\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhInAnSach.resources
+D:\DoAnNMCNPM12\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhLapBaoCaoCongNo.resources
+D:\DoAnNMCNPM12\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhLapBaoCaoTon.resources
+D:\DoAnNMCNPM12\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhLapHoaDonBanSach.resources
+D:\DoAnNMCNPM12\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhLapPhieuThuTien.resources
+D:\DoAnNMCNPM12\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhDangNhap.resources
+D:\DoAnNMCNPM12\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhPhieuHoaDon.resources
+D:\DoAnNMCNPM12\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhPhieuThuTien.resources
+D:\DoAnNMCNPM12\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhThayDoiQuyDinh.resources
+D:\DoAnNMCNPM12\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhTraCuuSach.resources
+D:\DoAnNMCNPM12\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.Resources.resources
+D:\DoAnNMCNPM12\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.manhinhphieunhap.resources
+D:\DoAnNMCNPM12\DoAnNMCNPM\obj\Debug\GUI.vbproj.GenerateResource.Cache
+D:\DoAnNMCNPM12\DoAnNMCNPM\obj\Debug\RdlCompile.cache
+D:\DoAnNMCNPM12\DoAnNMCNPM\obj\Debug\RdlCompile.compiled
+D:\DoAnNMCNPM12\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.exe
+D:\DoAnNMCNPM12\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.xml
+D:\DoAnNMCNPM12\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.pdb
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\bin\Debug\DoAnNMCNPM.exe.config
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\bin\Debug\DoAnNMCNPM.exe
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\bin\Debug\DoAnNMCNPM.pdb
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\bin\Debug\DoAnNMCNPM.xml
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\bin\Debug\BLL.dll
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\bin\Debug\DTO.dll
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\bin\Debug\DAL.dll
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\bin\Debug\BLL.pdb
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\bin\Debug\BLL.xml
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\bin\Debug\DTO.pdb
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\bin\Debug\DTO.xml
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\bin\Debug\DAL.pdb
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\bin\Debug\DAL.xml
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\obj\Debug\GUI.vbprojResolveAssemblyReference.cache
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhLapPhieuNhapSach.resources
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhBaoCaoCongNo.resources
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhBaoCaoTon.resources
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhBaoMat.resources
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhChinh.resources
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhChiTietPhieuHoaDon.resources
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhChiTietPhieuNhap.resources
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhDangKyTaiKhoan.resources
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhInAnBaoCaoCongNo.resources
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhInAnBaoCaoTon.resources
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhInAnKhachHang.resources
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhInAnSach.resources
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhLapBaoCaoCongNo.resources
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhLapBaoCaoTon.resources
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhLapHoaDonBanSach.resources
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhLapPhieuThuTien.resources
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhDangNhap.resources
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhPhieuHoaDon.resources
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhPhieuThuTien.resources
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhThayDoiQuyDinh.resources
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.ManHinhTraCuuSach.resources
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.Resources.resources
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.manhinhphieunhap.resources
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\obj\Debug\GUI.vbproj.GenerateResource.Cache
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\obj\Debug\RdlCompile.cache
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\obj\Debug\RdlCompile.compiled
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.exe
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.xml
+C:\Users\TruongThanh\Desktop\Vấn Đáp CNPM\SoureCodeApp\DoAnNMCNPM\obj\Debug\DoAnNMCNPM.pdb

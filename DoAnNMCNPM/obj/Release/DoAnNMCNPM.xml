@@ -1,0 +1,536 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DoAnNMCNPM
+</name>
+</assembly>
+<members>
+<member name="T:DoAnNMCNPM.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources._68186721_metro_wallpapers">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.BOOKMANHINHCHINH">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.BOOKS">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.buttonban">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.buttonhienthi">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.buttonhienthi1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.buttonmanhinhdangnhapnew">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.buttonmanhinhdangnhapnew1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.buttonmanhinhdangnhapnew2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.buttonmanhinhlapbaocaocongno">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.buttonmanhinhlapcaoton">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.buttonmanhinhlaphoadonbansach">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.buttonmanhinhlaphoadonbansachleft">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.buttonmanhinhlapphieunhapsachleft">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.buttonmanhinhlapphieunhapsachright">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.buttonmanhinhlapphieunhapsachright1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.buttonmanhinhlapphieuthutien">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.buttonmanhinhlapphieuthutienTohon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.buttonmanhinhnhonew1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.buttonmanhinhthaydoiquidinh">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.buttonmanhinhtracuusach">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.buttonmanhinhtracuusachtohon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.BUTTONNEW">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.BUTTONNEW1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.BUTTONNEW2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.BUTTONNEW3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.buttonsuasach">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.buttonthem">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.buttonthemxoa">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.CREATENEW">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.GiaoDien2ManHinhLapBaoCAo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.GIAODIEN2MANHINHLAPBAOCAONEW1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.GIAODIEN2MANHINHLAPBAOCAONEW2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.GiaoDienCacManHinhNo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.GiaoDienChung">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.GIAODIENDOC">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.GIAODIENLAPPHIEUTHUTIEN">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.GIAODIENLAPPHIEUTHUTIENNEW">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.GIAODIENLAPPHIEUTHUTIENNEW1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.GIAODIENMANHINHCHINH">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.GiaoDienManHinhDangNhap">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.GIAODIENTRACUUSACH">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.HINHNENHYDRA">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.HINHNENHYDRANEW1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.HINHNENHYDRANEW2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.HINHNENHYDRANEW3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.HINHNENHYDRANEW4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.HoaDonBanSachManHinhChinh">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.LapBaoCaoCongNo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.LapBaoCaoCongNoManHinhChinh">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.LapBaoCaoTonManHinhChinh">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.MANHINHCHUCNANGNEW1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.manhinhlapbaocaocongno">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.manhinhlapbaocaoton">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.manhinhlaphoadonbansachleft">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.manhinhlaphoadonbansachleft1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.manhinhlaphoadonbansachRight">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.manhinhlaphoadonbansachRight1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.manhinhlapphieunhapsachleft">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.manhinhlapphieunhapsachright">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.manhinhlapphieuthutien">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.manhinhlapphieuthutien1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.manhinhlapphieuthutien2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.ManHinhNhoNew1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.manhinhthaydoiquydinh">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.manhinhthaydoiquydinh2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.manhinhthaydoiquydinh3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.manhinhthaydoiquydinh4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.manhinhtracuusach">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.MAYIN">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.MAYIn2HAIMANHINHBAOCAO">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.MayTinh">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.MENU">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.MINIMIZE">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.PEOPLES">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.SEARCH">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.SEARCHManHinhChinh">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.Setting">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.SHUTDOWN">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.TIENMANHINHCHINH">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.TUITIEN">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.UITHINHNEN">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.UITHINHNENNEW2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.UPDATE">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.x_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DoAnNMCNPM.My.Resources.Resources.x_icon1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:DoAnNMCNPM.BaoTon">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:DoAnNMCNPM.BaoTon.BaoCaoTonDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DoAnNMCNPM.BaoTon.BaoCaoTonRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DoAnNMCNPM.BaoTon.BaoCaoTonRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DoAnNMCNPM.DataSet2">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:DoAnNMCNPM.DataSet2.BaoCaoCongNoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DoAnNMCNPM.DataSet2.BaoCaoCongNoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DoAnNMCNPM.DataSet2.BaoCaoCongNoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DoAnNMCNPM.DataSet3">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:DoAnNMCNPM.DataSet3.SachDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DoAnNMCNPM.DataSet3.SachRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DoAnNMCNPM.DataSet3.SachRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DoAnNMCNPM.DataSet4">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:DoAnNMCNPM.DataSet4.KhachHangDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DoAnNMCNPM.DataSet4.KhachHangRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DoAnNMCNPM.DataSet4.KhachHangRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="BaoTon" targetNamespace="http://tempuri.org/BaoTon.xsd" xmlns:mstns="http://tempuri.org/BaoTon.xsd" xmlns="http://tempuri.org/BaoTon.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="BaoTon" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="BaoTon" msprop:Generator_UserDSName="BaoTon">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="BaoCaoTon" msprop:Generator_TableClassName="BaoCaoTonDataTable" msprop:Generator_TableVarName="tableBaoCaoTon" msprop:Generator_RowChangedName="BaoCaoTonRowChanged" msprop:Generator_TablePropName="BaoCaoTon" msprop:Generator_RowDeletingName="BaoCaoTonRowDeleting" msprop:Generator_RowChangingName="BaoCaoTonRowChanging" msprop:Generator_RowEvHandlerName="BaoCaoTonRowChangeEventHandler" msprop:Generator_RowDeletedName="BaoCaoTonRowDeleted" msprop:Generator_RowClassName="BaoCaoTonRow" msprop:Generator_UserTableName="BaoCaoTon" msprop:Generator_RowEvArgName="BaoCaoTonRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MaChiTietTon" msprop:Generator_ColumnVarNameInTable="columnMaChiTietTon" msprop:Generator_ColumnPropNameInRow="MaChiTietTon" msprop:Generator_ColumnPropNameInTable="MaChiTietTonColumn" msprop:Generator_UserColumnName="MaChiTietTon" type="xs:string" minOccurs="0" />
+              <xs:element name="Thang" msprop:Generator_ColumnVarNameInTable="columnThang" msprop:Generator_ColumnPropNameInRow="Thang" msprop:Generator_ColumnPropNameInTable="ThangColumn" msprop:Generator_UserColumnName="Thang" type="xs:int" minOccurs="0" />
+              <xs:element name="MaSach" msprop:Generator_ColumnVarNameInTable="columnMaSach" msprop:Generator_ColumnPropNameInRow="MaSach" msprop:Generator_ColumnPropNameInTable="MaSachColumn" msprop:Generator_UserColumnName="MaSach" type="xs:string" minOccurs="0" />
+              <xs:element name="TonDau" msprop:Generator_ColumnVarNameInTable="columnTonDau" msprop:Generator_ColumnPropNameInRow="TonDau" msprop:Generator_ColumnPropNameInTable="TonDauColumn" msprop:Generator_UserColumnName="TonDau" type="xs:int" minOccurs="0" />
+              <xs:element name="TonPhatSinh" msprop:Generator_ColumnVarNameInTable="columnTonPhatSinh" msprop:Generator_ColumnPropNameInRow="TonPhatSinh" msprop:Generator_ColumnPropNameInTable="TonPhatSinhColumn" msprop:Generator_UserColumnName="TonPhatSinh" type="xs:int" minOccurs="0" />
+              <xs:element name="TonCuoi" msprop:Generator_ColumnVarNameInTable="columnTonCuoi" msprop:Generator_ColumnPropNameInRow="TonCuoi" msprop:Generator_ColumnPropNameInTable="TonCuoiColumn" msprop:Generator_UserColumnName="TonCuoi" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

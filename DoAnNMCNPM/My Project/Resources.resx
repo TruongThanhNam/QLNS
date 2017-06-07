@@ -1,0 +1,379 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="buttonmanhinhthaydoiquidinh" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\buttonmanhinhthaydoiquidinh.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="manhinhlapphieunhapsachright" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\manhinhlapphieunhapsachright.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LapBaoCaoTonManHinhChinh" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LapBaoCaoTonManHinhChinh.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TIENMANHINHCHINH" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TIENMANHINHCHINH.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Setting" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Setting.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GIAODIEN2MANHINHLAPBAOCAONEW1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\GIAODIEN2MANHINHLAPBAOCAONEW1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BOOKMANHINHCHINH" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BOOKMANHINHCHINH.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GIAODIENTRACUUSACH" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\GIAODIENTRACUUSACH.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GIAODIENDOC" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\GIAODIENDOC.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="manhinhlaphoadonbansachRight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\manhinhlaphoadonbansachRight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="buttonmanhinhlapcaoton" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\buttonmanhinhlapcaoton.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="manhinhlapbaocaocongno" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\manhinhlapbaocaocongno.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="buttonhienthi1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\buttonhienthi1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GIAODIENLAPPHIEUTHUTIENNEW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\GIAODIENLAPPHIEUTHUTIENNEW.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="buttonmanhinhnhonew1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\buttonmanhinhnhonew1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TUITIEN" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TUITIEN.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HINHNENHYDRANEW2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HINHNENHYDRANEW2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="buttonthemxoa" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\buttonthemxoa.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="manhinhlapphieuthutien2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\manhinhlapphieuthutien2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MAYIN" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MAYIN.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="buttonmanhinhdangnhapnew1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\buttonmanhinhdangnhapnew1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="manhinhtracuusach" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\manhinhtracuusach.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="buttonmanhinhlapphieunhapsachright1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\buttonmanhinhlapphieunhapsachright1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="68186721-metro-wallpapers" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\68186721-metro-wallpapers.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UPDATE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\UPDATE.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="manhinhthaydoiquydinh2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\manhinhthaydoiquydinh2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HINHNENHYDRA" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HINHNENHYDRA.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GIAODIENLAPPHIEUTHUTIEN" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\GIAODIENLAPPHIEUTHUTIEN.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MayTinh" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MayTinh.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GIAODIEN2MANHINHLAPBAOCAONEW2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\GIAODIEN2MANHINHLAPBAOCAONEW2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="buttonmanhinhlaphoadonbansach" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\buttonmanhinhlaphoadonbansach.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MINIMIZE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MINIMIZE.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PEOPLES" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PEOPLES.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SEARCHManHinhChinh" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\SEARCHManHinhChinh.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="buttonmanhinhlapphieuthutien" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\buttonmanhinhlapphieuthutien.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="buttonban" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\buttonban.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UITHINHNEN" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\UITHINHNEN.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ManHinhNhoNew1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ManHinhNhoNew1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="manhinhlapphieuthutien" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\manhinhlapphieuthutien.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BOOKS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BOOKS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="manhinhlapphieuthutien1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\manhinhlapphieuthutien1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HoaDonBanSachManHinhChinh" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HoaDonBanSachManHinhChinh.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="manhinhlaphoadonbansachleft" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\manhinhlaphoadonbansachleft.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GiaoDienCacManHinhNo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\GiaoDienCacManHinhNo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="buttonsuasach" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\buttonsuasach.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HINHNENHYDRANEW1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HINHNENHYDRANEW1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GiaoDien2ManHinhLapBaoCAo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\GiaoDien2ManHinhLapBaoCAo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UITHINHNENNEW2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\UITHINHNENNEW2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="manhinhlaphoadonbansachleft1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\manhinhlaphoadonbansachleft1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MENU" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MENU.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="buttonmanhinhlapphieunhapsachleft" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\buttonmanhinhlapphieunhapsachleft.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LapBaoCaoCongNo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LapBaoCaoCongNo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="manhinhlapphieunhapsachleft" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\manhinhlapphieunhapsachleft.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="manhinhthaydoiquydinh4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\manhinhthaydoiquydinh4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="manhinhthaydoiquydinh" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\manhinhthaydoiquydinh.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="buttonmanhinhtracuusachtohon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\buttonmanhinhtracuusachtohon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="buttonmanhinhlapbaocaocongno" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\buttonmanhinhlapbaocaocongno.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="manhinhlapbaocaoton" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\manhinhlapbaocaoton.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MAYIn2HAIMANHINHBAOCAO" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MAYIn2HAIMANHINHBAOCAO.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SHUTDOWN" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\SHUTDOWN.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GIAODIENMANHINHCHINH" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\GIAODIENMANHINHCHINH.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MANHINHCHUCNANGNEW1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MANHINHCHUCNANGNEW1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BUTTONNEW3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BUTTONNEW3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="x-icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\x-icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GiaoDienChung" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\GiaoDienChung.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CREATENEW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CREATENEW.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GIAODIENLAPPHIEUTHUTIENNEW1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\GIAODIENLAPPHIEUTHUTIENNEW1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BUTTONNEW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BUTTONNEW.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LapBaoCaoCongNoManHinhChinh" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LapBaoCaoCongNoManHinhChinh.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="buttonmanhinhtracuusach" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\buttonmanhinhtracuusach.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="buttonmanhinhlapphieuthutienTohon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\buttonmanhinhlapphieuthutienTohon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HINHNENHYDRANEW3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HINHNENHYDRANEW3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="buttonmanhinhdangnhapnew2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\buttonmanhinhdangnhapnew2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="buttonmanhinhdangnhapnew" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\buttonmanhinhdangnhapnew.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="manhinhlaphoadonbansachRight1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\manhinhlaphoadonbansachRight1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BUTTONNEW2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BUTTONNEW2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BUTTONNEW1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BUTTONNEW1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="buttonthem" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\buttonthem.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GiaoDienManHinhDangNhap" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\GiaoDienManHinhDangNhap.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SEARCH" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\SEARCH.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="buttonhienthi" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\buttonhienthi.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="buttonmanhinhlapphieunhapsachright" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\buttonmanhinhlapphieunhapsachright.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HINHNENHYDRANEW4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HINHNENHYDRANEW4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="buttonmanhinhlaphoadonbansachleft" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\buttonmanhinhlaphoadonbansachleft.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="manhinhthaydoiquydinh3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\manhinhthaydoiquydinh3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="x-icon1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\x-icon1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>
